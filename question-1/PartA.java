@@ -1,1 +1,3 @@
-
+public Account(String requestedName){
+  
+}
