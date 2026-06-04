@@ -6,4 +6,4 @@ My solutions and explanations for the 2026 AP Computer Science A Free Response Q
 - Question 3: ArrayList Processing and Object Interation
 - Question 4: 2D Arrays
 ## Reflection
-Working through these after the exam helped me...
+Working through these after the exam helped me track my growth throughout the year and understand my mistakes during the exam better.
